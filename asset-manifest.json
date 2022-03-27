@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airbnb-scrimba/static/css/main.8b39f4d1.css",
+    "main.js": "/airbnb-scrimba/static/js/main.7d342d27.js",
+    "static/media/photo-grid.png": "/airbnb-scrimba/static/media/photo-grid.1d18b47b976c32d6c83e.png",
+    "static/media/airbnb.png": "/airbnb-scrimba/static/media/airbnb.ca38779fea514e0ee06c.png",
+    "index.html": "/airbnb-scrimba/index.html",
+    "main.8b39f4d1.css.map": "/airbnb-scrimba/static/css/main.8b39f4d1.css.map",
+    "main.7d342d27.js.map": "/airbnb-scrimba/static/js/main.7d342d27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b39f4d1.css",
+    "static/js/main.7d342d27.js"
+  ]
+}
